@@ -1,5 +1,5 @@
 # Cordova sample
-
+![image](https://github.com/zach0627/cordova_checkpassword/blob/master/demo.png)
 ## 必裝環境
 ###### cordova cli:
   **Mac/Linux: sudo npm install -g cordova**
